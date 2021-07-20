@@ -20,6 +20,15 @@ header h1 {
   text-align: center;
 }
 
+ol, li {
+  padding: .5rem;
+}
+
+a {
+  color: dodgerblue;
+  font-size: 16px;
+}
+
 main {
   width: 960px;
   height: 100vh;
